@@ -1,0 +1,5 @@
+com\practise\configuration\WebServletConfiguration.class
+com\practise\bean\Captcha.class
+com\practise\configuration\SpringConfig.class
+com\practise\controller\CaptchaController.class
+com\practise\service\CaptchaService.class
